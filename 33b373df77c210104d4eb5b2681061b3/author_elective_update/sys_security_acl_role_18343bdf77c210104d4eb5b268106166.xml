@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-22 13:22:21</sys_created_on>
+        <sys_id>18343bdf77c210104d4eb5b268106166</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_abcd.pa2_user</sys_name>
+        <sys_package display_value="pa2" source="33b373df77c210104d4eb5b2681061b3">33b373df77c210104d4eb5b2681061b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pa2">33b373df77c210104d4eb5b2681061b3</sys_scope>
+        <sys_security_acl display_value="u_abcd">d8343bdf77c210104d4eb5b268106161</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_18343bdf77c210104d4eb5b268106166</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-22 13:22:21</sys_updated_on>
+        <sys_user_role display_value="pa2_user" name="pa2_user">73b3b3df77c210104d4eb5b2681061f1</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="pa2">33b373df77c210104d4eb5b2681061b3</application>
+        <file_path/>
+        <instance_id>paris8081</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_security_acl_role_18343bdf77c210104d4eb5b268106166</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-22 13:22:21</sys_created_on>
+        <sys_id>18343bdf77c210104d4eb5b268106166</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_abcd.pa2_user</sys_name>
+        <sys_package display_value="pa2" source="33b373df77c210104d4eb5b2681061b3">33b373df77c210104d4eb5b2681061b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pa2">33b373df77c210104d4eb5b2681061b3</sys_scope>
+        <sys_security_acl display_value="u_abcd">d8343bdf77c210104d4eb5b268106161</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_18343bdf77c210104d4eb5b268106166</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-22 13:22:21</sys_updated_on>
+        <sys_user_role display_value="pa2_user" name="pa2_user">73b3b3df77c210104d4eb5b2681061f1</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>]]></payload>
+        <payload_hash>-1548361189</payload_hash>
+        <record_name>u_abcd.pa2_user</record_name>
+        <reverted_from/>
+        <source>80847b9f77c210104d4eb5b2681061fa</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-22 13:23:43</sys_created_on>
+        <sys_id>3c84bb9f77c210104d4eb5b2681061bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17376b1b1300000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-22 13:23:43</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>f884bb9f47c21010de4acf1875e499bd</update_guid>
+        <update_guid_history>f884bb9f47c21010de4acf1875e499bd:-1548361189</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="u_abcd.pa2_user">20c67313770610104d4eb5b268106162</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-22 13:33:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>a15dc18c1e2147098121ae61d78108d1</sys_id>
+        <sys_metadata>18343bdf77c210104d4eb5b268106166</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_abcd.pa2_user</sys_name>
+        <sys_package display_value="pa2" source="33b373df77c210104d4eb5b2681061b3">33b373df77c210104d4eb5b2681061b3</sys_package>
+        <sys_parent display_value="">d8343bdf77c210104d4eb5b268106161</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="pa2">33b373df77c210104d4eb5b2681061b3</sys_scope>
+        <sys_scope_delete display_value="">1e6dd29e8f574aa5a708a1389deaab41</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_18343bdf77c210104d4eb5b268106166</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_18343bdf77c210104d4eb5b268106166">3c84bb9f77c210104d4eb5b2681061bd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-22 13:33:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
