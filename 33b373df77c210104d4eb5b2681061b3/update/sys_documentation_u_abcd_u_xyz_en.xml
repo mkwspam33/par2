@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_xyz" label="Xyz" language="en" table="u_abcd">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_xyz</element>
+            <help/>
+            <hint/>
+            <label>Xyz</label>
+            <language>en</language>
+            <name>u_abcd</name>
+            <plural>Xyzes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:22:47</sys_created_on>
+            <sys_id>7a44bbdf77c210104d4eb5b2681061be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Xyz</sys_name>
+            <sys_package display_value="pa2" source="33b373df77c210104d4eb5b2681061b3">33b373df77c210104d4eb5b2681061b3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="pa2">33b373df77c210104d4eb5b2681061b3</sys_scope>
+            <sys_update_name>sys_documentation_u_abcd_u_xyz_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:22:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
